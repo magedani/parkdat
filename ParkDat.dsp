@@ -24,7 +24,7 @@ CFG=ParkDat - Win32 Debug
 # Begin Project
 # PROP AllowPerConfigDependencies 0
 # PROP Scc_ProjName ""
-# PROP Scc_LocalPath ""
+# PROP Scc_LocalPath ""C:\Users\Danica\OneDrive\Documents\OpenRCT2\save\Electric Fields.park""
 CPP=cl.exe
 MTL=midl.exe
 RSC=rc.exe
